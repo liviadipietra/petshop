@@ -1,0 +1,23 @@
+Produtos 
+ - Listagem
+ - Visualização
+ - Busca (?)
+ - Adicionar ao carrinho
+ - Checkout -> register ou login
+ - Cadastro -> type = 2 (admin) / 3 (operador)
+ - Exclusão -> type = 2 (admin)
+ 
+ Users
+ - type = 1 - cliente
+ 
+ Area Geral
+ - Exibir Produtos
+ - Adicionar ao Carrinho
+ - Checkout
+ 
+ Área do Cliente
+ - Consultar Compras
+ - Alterar dados pessoais (nome, email, password)
+ 
+ Área Administrativa
+ - Product Management
